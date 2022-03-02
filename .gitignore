@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data folders
+maestro-numpy/
+maestro-v3.0.0/
