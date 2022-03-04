@@ -131,3 +131,6 @@ dmypy.json
 # Data folders
 maestro-numpy/
 maestro-v3.0.0/
+
+# Models
+*.pt
